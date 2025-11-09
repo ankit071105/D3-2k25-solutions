@@ -15,7 +15,6 @@ Submissions of all problem statement solutions.
 | Raccoon Fanclub | [Codemia](https://github.com/maaaazin/Codemia) |
 | Highlanders | [AFTERPACKETS](https://github.com/PrashamJ17/AfterPackets) |
 | GITLERS | [swapp](https://github.com/PreetiPMishra-Codes/swapp) |
-| Highlanders | [AFTERPACKETS](https://github.com/PrashamJ17/AfterPackets) |
 | Marine Drive | [Acadify](https://github.com/Atharv714/Acadify) |
 | Hunters | [Your Project Name](https://github.com/udaykoti/nani) |
 | Voxforge | [Evalo](https://github.com/kmr-ankitt/evalo) |
