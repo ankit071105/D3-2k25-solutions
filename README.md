@@ -13,6 +13,7 @@ Submissions of all problem statement solutions.
 | Hackasauras | [Drawisly](https://github.com/SobhanSah00/iiit_bbsrDrawisly) |
 | Kon'nichiwa sekai | [PromptBuddy](https://github.com/manaspros/code) |
 | Raccoon Fanclub | [Codemia](https://github.com/maaaazin/Codemia) |
+| Marine Drive | [Acadify](https://github.com/Atharv714/Acadify) |
 | Hunters | [Your Project Name](https://github.com/udaykoti/nani) |
 | Voxforge | [Evalo](https://github.com/kmr-ankitt/evalo) |
 | CodeX | [SwapX](https://github.com/aryamansingh04/SwapX) |
